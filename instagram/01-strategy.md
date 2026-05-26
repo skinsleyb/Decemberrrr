@@ -45,18 +45,23 @@ Everything below serves that line.
 
 ## 4. Content pillars (the mix you asked for)
 
-Three pillars in rotation. Roughly **40 / 35 / 25**.
+Three pillars in rotation. Roughly **40 / 35 / 25**. Delivered in two formats you favour — **graphic-led, pain-point reels/carousels** (your workhorse, no face needed) and **satisfying real footage you film for clients** (resin pours etc. — your reach engine).
 
 ### Pillar A — Attention / Brand (40%)
-The "stop the scroll" content that gets reach from people who've never heard of you. This is where your **"guess the brand"** idea lives (see `03-reel-scripts.md`). Goal: reach + shares + follows. Not selling.
+The "stop the scroll" content that gets reach from people who've never heard of you.
+- **Satisfying real footage** (resin pours, screeding, before/afters) — *this is the proven reach driver in trades* (The Pool Guy 14.8M, The Vibing Plasterer 2.1M built on exactly this). Always pin a brand/pain line on top.
+- The **"Household Name" guess-the-brand series** — now using *tool/trade brands* (DeWalt, Makita, Screwfix) by colour, which is native to your audience and lower legal risk (see `03-reel-scripts.md`).
+- Goal: reach + shares + follows. Not selling.
 
 ### Pillar B — Pain & Proof (35%)
-The content that converts the attention into "...wait, this is me." Anti-lead-gen rants, before/after Google rankings, client results with real numbers, myth-busting. This pillar carries the message. Goal: saves + DMs.
+The content that converts attention into "...wait, this is me." Mostly **graphic/motion reels and carousels** — bold text, one pain point per frame, your brand colours.
+- Anti-lead-gen (the £70–£120/mo + per-lead, one lead sold to 4 trades), before/after Google rankings, client results with real numbers, the late-payment angle, myth-busting.
+- This pillar carries the message and is cheap to produce at volume. Goal: saves + DMs.
 
 ### Pillar C — What We Actually Do (25%)
-The straight posts about your service — how GBP optimisation works, what a top-3 ranking means in £, the process of working with you, FAQs. Goal: turn warm followers into enquiries. Keep it useful, not brochure-y.
+The straight posts about your service — how GBP optimisation works, what top-3 is worth in £, the process, FAQs. A talking-head/founder reel here is good for trust (model: Hook Agency, Relentless Digital), but most can be graphic-led too. Goal: turn warm followers into enquiries. Keep it useful, not brochure-y.
 
-> Why this split: research is clear that awareness content (A) drives reach but doesn't convert, and service content (C) converts but won't grow you. Pillar B is the bridge — it's where most of your best content should sit, and it's the cheapest to make (you, talking, with proof on screen).
+> Why this split: research is clear that awareness content (A) drives reach but doesn't convert, and service content (C) converts but won't grow you. Pillar B is the bridge — and the format data backs the plan: **Reels (and satisfying footage) win reach; carousels win the saves and engagement** you actually want. The two proven organic models in your exact niche are (1) graphic tip/pain reels and (2) proof reels with real numbers — both of which this split leans into.
 
 ---
 
@@ -85,11 +90,12 @@ See `02-content-calendar.md` for a ready-to-run 30-day calendar.
 ## 7. How the algorithm pays you back (2026)
 
 Make content for these signals, in order:
-1. **Sends-per-reach (DM shares) — the #1 signal.** Every reel should be *taggable*: "tag the mate whose website is invisible."
-2. **Completion rate** — keep reels 15–30s, hook in the first 2 seconds, on-screen text *before* any voiceover.
-3. **Saves** — carousels and checklists ("save this before you renew Checkatrade").
-4. **Comments** — ask one easy question.
-5. **Likes barely count.** Stop optimising for them.
+1. **Reply to every comment.** Buffer's 52M-post dataset found replies are the *single strongest* engagement signal across platforms — and it's free. Spend 20 minutes after every post replying to and continuing conversations.
+2. **Sends-per-reach (DM shares) — the top distribution signal to new audiences.** Every reel should be *taggable*: "tag the mate whose business is invisible on Google."
+3. **Completion rate** — keep reels short (7–15s reels hit ~74% completion vs ~49% at 30–60s), hook in the first 2 seconds, on-screen text *before* any voiceover.
+4. **Saves** — carousels and checklists ("save this before you renew Checkatrade").
+5. **Comments** — ask one easy question; the guess-the-brand "comment your score" mechanic is built for this.
+6. **Likes barely count.** Stop optimising for them.
 
 Captions are SEO: front-load your keyword in the first 125 characters ("Google Business Profile for tradesmen…"). Use **3–5 hashtags only** (1 broad + 2–3 niche + 1 branded like #TrowelAndCode), not 30.
 
@@ -132,6 +138,15 @@ Be honest with yourself on this:
 - **Consistency is the whole strategy.** 3 posts a week for 6 months beats 15 posts in week one and nothing after.
 - **When you have 3–4 reels that over-performed organically, put a small paid boost behind them** to accelerate recognition. You're not buying leads — you're amplifying content that already proved it works. That stays true to your no-paid-leads principle.
 - **Repurpose relentlessly:** every reel → a carousel → 3 Stories → a still. One idea, five posts.
+
+### Can we engineer a "60k views on a new account" reel?
+You'll see brand-new accounts hit 60k on their first reels. That's real — but read it correctly:
+- **New accounts get a "cold-start" test.** Instagram shows a new reel to a batch of non-followers; if the first 2–3 seconds hold and people share, it snowballs. There's *no* new-account penalty. So a big first reel is possible.
+- **But it's high-variance and survivorship-biased.** You see the reels that popped; you never see the thousands that got 200 views. No one — no agency, no dataset — can *guarantee* or reliably reproduce a 60k reel. Anyone selling a "viral formula" is selling something. What the data gives us is what *correlates* with reach (strong 2-sec hook, high completion, shares, replies, short length) — levers, not a guarantee.
+- **The reels that hit 60k are almost always broad/entertaining, not niche B2B.** Which is exactly why your **satisfying real footage (resin pours) is your best shot at a big-view reel** — it has mass appeal. A "Google Business tips" reel will rarely do those numbers, and that's fine.
+- **The trap: 60k of the *wrong* views = zero leads.** A satisfying resin clip can be watched worldwide by people who'll never hire a UK trades-marketing agency. So (a) always pin a brand/pain overlay so views convert to recognition, and (b) judge success on *local* follows, DMs and reviews booked — not the view counter.
+
+**Bottom line:** be confident in the *mechanics* (hooks, completion, shares, replies, format, length, consistency) — those are well-evidenced. Don't bank the business on reproducing a viral spike. Chase the system; treat any 60k reel as a bonus, and squeeze it for follows + DMs when it happens.
 
 ---
 

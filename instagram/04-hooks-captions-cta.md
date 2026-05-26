@@ -16,6 +16,18 @@ The hook is ~80% of the job. Lead with the boldest one on screen *before* you sp
 - "If you're not top 3 on Google, half your customers never see you."
 - "Checkatrade isn't a marketing strategy. It's a tax."
 
+**Stat hooks (real numbers — see `05-research-and-sources.md`; cite loosely, e.g. "studies show…"):**
+- "81% of tradesmen are chasing late payments. Average owed? £6,210."
+- "£70 a month, a 12-month contract, AND a fee per lead — that's Checkatrade. Or… free leads off Google."
+- "One Checkatrade lead gets sold to 4 of you. You all pay. One of you wins."
+- "Construction is the 2nd least-digitised industry on the planet. That's not an insult — it's your head start."
+- "The average tradesman loses ~7 hours a week to paperwork. That's 48 days a year."
+
+**Tech / admin hooks (Pillar B/C — the bigger offer):**
+- "You're a brilliant [trade]. Your admin is killing you."
+- "Still quoting in Word and chasing invoices by text?"
+- "Getting found on Google is step one. Getting paid on time is the bit nobody fixes."
+
 **Curiosity / attention hooks (Pillar A):**
 - "You'll recognise all of these in 2 seconds. (You won't recognise the last one.)"
 - "Why does everyone know McDonald's but nobody knows your business?"

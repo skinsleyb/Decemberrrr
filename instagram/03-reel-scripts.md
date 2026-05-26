@@ -1,40 +1,51 @@
 # Reel Scripts
 
-Shot-ready scripts. Each reel: hook in first 2 seconds, on-screen text appears *before* any voiceover, 15–30s, captions burned in (most watch on mute). Keep CTA text out of the bottom 15% of frame (the UI covers it).
+Shot-ready scripts. Each reel: hook in first 2 seconds, on-screen text appears *before* any voiceover, 15–30s (shorter = higher completion), captions burned in (most watch on mute). Keep CTA text out of the bottom 15% of frame (the UI covers it).
+
+## Two production styles (you don't need to be on camera)
+You said you want this **graphic-led and aimed at pain points**, mixed with **real footage you film for clients** (resin pours etc.). Both are supported by the research, so every script below is built for one of two styles:
+
+- **🎨 Graphic / motion reels** — bold animated text, one pain point per frame, your brand colours, voiceover optional. This is your *workhorse* for the pain & proof content. No face required.
+- **🎥 Satisfying real-footage reels** — the trade work you're already filming (resin mixing/pouring, screeding, before/afters). This is your *reach engine* — in the trades niche, satisfying transformation/timelapse footage is what actually goes viral (The Pool Guy 14.8M, The Vibing Plasterer 2.1M). Always pin a pain-point/brand line on top so the eye-candy earns brand recall, not just views.
+
+Carousels (graphic, save-friendly) are covered in the calendar; they're your save engine.
 
 ---
 
-## ⭐ FLAGSHIP: "Household Name" — Episode 1 (your guess-the-brand idea)
+## ⭐ FLAGSHIP: "Household Name" — Episode 1 (your guess-the-brand idea, upgraded)
 
-**Format:** recurring weekly series. Each episode = a quick logo quiz that ends on the same gut-punch: *you know everyone's brand but your own customers don't know yours.* Branding it as a series is what separates us from the thousands of one-off "guess the logo" reels.
+**The upgrade:** instead of McDonald's/Nike, use the brands *your audience* knows in their sleep — **tool and trade brands by colour alone** (DeWalt yellow, Makita teal, Milwaukee red, Festool green, Screwfix orange). Research is clear this is the stronger play: it's native to tradespeople (more shareable inside the trade), the colour-recognition mechanic is genuinely fun, and it's far less legally exposed than using McDonald's to promote your service. Same gut-punch ending.
 
-**⚠️ Legal note — read before filming:** Do **not** use clean, full brand logos. Use **partially obscured / silhouette / single-colour-block** versions (e.g. the golden arches as a yellow silhouette on red, the half-bitten apple as a grey outline). This is safer for trademark/endorsement reasons *and* makes a better quiz. When in doubt, abstract harder.
+**Format:** recurring weekly series. Each episode = a fast quiz that lands on the same line: *you know every brand in the van, but your own customers don't know yours.* The series name + "comment your score" mechanic is what separates it from the thousands of one-off logo quizzes.
 
-**Length:** ~20–25s. **Music:** a punchy, slightly tense quiz/ticking track.
+**⚠️ Legal note:** still **abstract the logos** — use colour blocks / blurred silhouettes, not pin-sharp trademarks. Safer, and a better quiz (guessing by colour is harder and more satisfying).
+
+**Length:** ~15–20s (short = higher completion). **Music:** punchy quiz/ticking track. **Style:** graphic-led, bold text, your brand colours, on-screen text appears *before* any voiceover.
 
 | Time | On-screen text | Visual | Voiceover (optional) |
 |------|----------------|--------|----------------------|
-| 0–2s | **"You'll get all of these in 2 seconds."** | Hard cut straight into a blurred/silhouetted golden-arches shape on red | "Bet you get every single one of these." |
-| 2–5s | "Brand 1 →" then a tick ✅ | Silhouette of golden arches → reveal "McDonald's" | "Easy." |
-| 5–8s | "Brand 2 →" ✅ | Swoosh silhouette → "Nike" | "Didn't even need the word." |
-| 8–11s | "Brand 3 →" ✅ | Half-apple outline → "Apple" | "Course you did." |
-| 11–14s | "Brand 4 →" ✅ | Blue-and-yellow colour block → "IKEA" | — |
-| 14–17s | **"You got every one. No words needed."** | Quick montage of all 4 silhouettes | "You recognised all of them instantly." |
-| 17–22s | **"So why does nobody recognise YOURS?"** | Cut to black, then your logo / a blank van with no signage | "When someone in your area needs a [plumber], does your name pop into their head… or do they just Google it and call whoever's top 3?" |
-| 22–25s | **"We fix that. We speak Trowel and Code."** + *"Comment RANK 👇"* | Your brand frame | "We get trades top 3 on Google — so you're the name they find. Free leads, no lead-gen sites." |
+| 0–2s | **"Name the brand. Colour only. No logos."** | Hard cut into a pure DeWalt-yellow/black colour block | "Every one of these by colour alone. Go." |
+| 2–5s | "1 →" ✅ | Yellow/black block → reveal "DeWalt" | "Too easy." |
+| 5–8s | "2 →" ✅ | Teal block → "Makita" | — |
+| 8–11s | "3 →" ✅ | Red block → "Milwaukee" | "Didn't even need the name." |
+| 11–14s | "4 →" ✅ | Orange block → "Screwfix" | — |
+| 14–16s | **"You got every one. No logo needed."** | Quick montage of the 4 colour blocks | "You knew all of them instantly." |
+| 16–20s | **"So why doesn't your customer know YOURS?"** then **"We fix that. We speak Trowel and Code."** + *"Comment RANK 👇"* | Cut to a blank, unbranded van → your brand frame | "When someone needs a [trade] near you, do they know your name… or do they just Google it and call whoever's top 3? Let's make that you." |
 
-**Why each brand makes the cut (so the series has substance — drip one lesson per episode):**
-- *McDonald's* = **consistency.** Same everywhere. → "Your Google profile should look the same, complete, everywhere a customer checks."
-- *Nike* = **one simple mark.** → "You don't need a fancy brand. You need to be *findable.*"
-- *Apple* = **owning a category.** → "Own 'emergency plumber in [town]' on Google and you own the calls."
-- *IKEA* = **colour recognition.** → "People recognise patterns. Show up top-3 every time and you become the pattern."
+**Why each brand earns its slot (drip one lesson per episode so the series has substance):**
+- *DeWalt* = **own a colour.** → "You don't need a fancy logo — you need to be the one that always shows up."
+- *Makita* = **consistency everywhere.** → "Your Google profile should look the same and complete everywhere a customer checks."
+- *Milwaukee* = **own a category.** → "Own 'emergency [trade] in [town]' on Google and you own the calls."
+- *Screwfix* = **be the default.** → "Show up top-3 every single time and you become the automatic choice."
 
 **Caption:**
-> Guess the brand for trades — episode 1. You got all 4 in seconds… but does anyone in your town know YOUR name? Here's the uncomfortable bit: they don't need to. They just Google "[your trade] near me" and call whoever's top 3. We make that you. 🧱💻
+> Guess the brand — trades edition, episode 1. You named all 4 by colour in seconds… but does anyone in your town know YOUR name? Here's the uncomfortable bit: they don't need to. They Google "[your trade] near me" and call whoever's top 3. We make that you. 🧱💻
 > Comment **RANK** and I'll send you the free checklist to get into Google's top 3.
 > #Tradesman #LocalSEO #GoogleBusinessProfile #TrowelAndCode
 
 **Series follow-up hook (end card every episode):** *"Follow for next week's Household Name."* — manufactures return visits and follows.
+
+**Future episodes** (keep it fresh, same payoff): workwear brands (Snickers, DeWalt, Scruffs), merchant brands (Wickes, Toolstation, Travis Perkins), van brands, or a round of mega-brands (the McDonald's/Nike version) for broader reach. Rotate the lesson each time.
 
 ---
 
@@ -107,6 +118,27 @@ Shot-ready scripts. Each reel: hook in first 2 seconds, on-screen text appears *
 | 10–15s | "No jargon. No lead-gen. Just Google top-3." + *"Follow"* | "No jargon, no rented leads. We get you top of Google and leave you alone to do the work. Follow along." |
 
 **Caption:** Trowel = the trade. Code = the tech. We speak both. 🧱💻 #TrowelAndCode #Tradesman
+
+---
+
+## 🎥 REEL 7 — "Satisfying footage" template (your resin pours etc. — your reach engine)
+
+Use the real footage you film for clients. The footage earns the view; the overlay earns the brand. Reusable for any trade clip (resin, screeding, plastering, render, paving, before/afters).
+
+**Length:** ~12–18s. **No voiceover needed** — let the footage + sound carry it (or a trending audio). Burn the text in.
+
+| Time | On-screen text | Visual |
+|------|----------------|--------|
+| 0–2s | **"Wait for the pour. 🤤"** (or "10/10 satisfying" — borrow The Pool Guy's difficulty-rating hook) | Drop straight into the most satisfying second — the resin hitting the mix / first trowel sweep |
+| 2–12s | *(let it breathe — minimal text)* maybe "Resin drive · [town]" | The satisfying process: mixing, pouring, the smooth reveal. Tight, well-lit, ASMR-ish |
+| 12–16s | **"This drive looks unreal. Shame nobody can find the firm that laid it."** | Finished result, slow push-in |
+| 16–18s | **"We fixed that — they're now top 3 on Google. 🧱💻"** + *"Comment RANK"* | Your brand frame / a Google top-3 screenshot |
+
+**Why it works for YOU specifically:** it proves you're embedded with real trades (not an agency that's "never been on a site"), it doubles as content you can hand the client, and the brand line converts pure reach into recognition. Make this a recurring format too — "Satisfying Saturday" or similar.
+
+**Caption:**
+> Filmed this resin pour for a client this week 🤤 Cracking work — but a job this good is wasted if customers can't find them. They're now top 3 on Google, so the right people do. Tag a trade whose work deserves to be seen. 👇
+> #Resin #SatisfyingVideo #Tradesman #LocalSEO #TrowelAndCode
 
 ---
 
